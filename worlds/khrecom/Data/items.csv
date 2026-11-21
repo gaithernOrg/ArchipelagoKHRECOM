@@ -1,0 +1,217 @@
+id,name,groups,classification
+2680000,Victory,VIC,progression
+2681002,Card Set Three Wishes,Sets,filler
+2681003,Card Set Crabclaw,Sets,filler
+2681004,Card Set Pumpkinhead,Sets,filler
+2681005,Card Set Fairy Harp,Sets,filler
+2681006,Card Set Wishing Star,Sets,filler
+2681007,Card Set Spellbinder,Sets,filler
+2681008,Card Set Metal Chocobo,Sets,filler
+2681009,Card Set Olympia,Sets,filler
+2681010,Card Set Lionheart,Sets,filler
+2681011,Card Set Lady Luck,Sets,filler
+2681012,Card Set Divine Rose,Sets,filler
+2681013,Card Set Oathkeeper,Sets,filler
+2681014,Card Set Oblivion,Sets,filler
+2681015,Card Set Ultima Weapon,Sets,filler
+2681016,Card Set Diamond Dust,Sets,filler
+2681017,Card Set One Winged Angel,Sets,filler
+2681018,Card Set Soul Eater,Sets,filler
+2681019,Card Set Star Seeker,Sets,filler
+2681020,Card Set Total Eclipse,Sets,filler
+2681021,Card Set Midnight Roar,Sets,filler
+2681022,Card Set Maverick Flare,Sets,filler
+2681023,Card Set Two Become One,Sets,filler
+2681024,Card Set Bond of Flame,Sets,filler
+2681049,Card Set Fire,Sets,filler
+2681050,Card Set Blizzard,Sets,filler
+2681051,Card Set Thunder,Sets,filler
+2681052,Card Set Cure,Sets,filler
+2681053,Card Set Gravity,Sets,filler
+2681054,Card Set Stop,Sets,filler
+2681055,Card Set Aero,Sets,filler
+2681058,Card Set Simba,Sets,filler
+2681059,Card Set Genie,Sets,filler
+2681060,Card Set Bambi,Sets,filler
+2681061,Card Set Dumbo,Sets,filler
+2681062,Card Set Tinker Bell,Sets,filler
+2681063,Card Set Mushu,Sets,filler
+2681064,Card Set Cloud,Sets,filler
+2681081,Card Set Potion,Sets,filler
+2681082,Card Set Hi-Potion,Sets,filler
+2681083,Card Set Mega-Potion,Sets,filler
+2681084,Card Set Ether,Sets,filler
+2681085,Card Set Mega-Ether,Sets,filler
+2681086,Card Set Elixir,Sets,filler
+2681087,Card Set Megalixir,Sets,filler
+2681201,Enemy Card Shadow,Enemy Cards,useful
+2681202,Enemy Card Soldier,Enemy Cards,useful
+2681203,Enemy Card Large Body,Enemy Cards,useful
+2681204,Enemy Card Red Nocturne,Enemy Cards,useful
+2681205,Enemy Card Blue Rhapsody,Enemy Cards,useful
+2681206,Enemy Card Yellow Opera,Enemy Cards,useful
+2681207,Enemy Card Green Requiem,Enemy Cards,useful
+2681208,Enemy Card Powerwild,Enemy Cards,useful
+2681209,Enemy Card Bouncywild,Enemy Cards,useful
+2681210,Enemy Card Air Soldier,Enemy Cards,useful
+2681211,Enemy Card Bandit,Enemy Cards,useful
+2681212,Enemy Card Fat Bandit,Enemy Cards,useful
+2681213,Enemy Card Barrel Spider,Enemy Cards,useful
+2681214,Enemy Card Search Ghost,Enemy Cards,useful
+2681215,Enemy Card Sea Neon,Enemy Cards,useful
+2681216,Enemy Card Screwdiver,Enemy Cards,useful
+2681217,Enemy Card Aquatank,Enemy Cards,useful
+2681218,Enemy Card Wight Knight,Enemy Cards,useful
+2681219,Enemy Card Gargoyle,Enemy Cards,useful
+2681220,Enemy Card Pirate,Enemy Cards,useful
+2681221,Enemy Card Air Pirate,Enemy Cards,useful
+2681222,Enemy Card Darkball,Enemy Cards,useful
+2681223,Enemy Card Defender,Enemy Cards,useful
+2681224,Enemy Card Wyvern,Enemy Cards,useful
+2681225,Enemy Card Wizard,Enemy Cards,useful
+2681226,Enemy Card Neoshadow,Enemy Cards,useful
+2681227,Enemy Card White Mushroom,Enemy Cards,useful
+2681228,Enemy Card Black Fungus,Enemy Cards,useful
+2681229,Enemy Card Creeper Plant,Enemy Cards,useful
+2681230,Enemy Card Tornado Step,Enemy Cards,useful
+2681231,Enemy Card Crescendo,Enemy Cards,useful
+2681232,Enemy Card Guard Armor,Enemy Cards,useful
+2681233,Enemy Card Parasite Cage,Enemy Cards,useful
+2681234,Enemy Card Trickmaster,Enemy Cards,useful
+2681235,Enemy Card Darkside,Enemy Cards,useful
+2681236,Enemy Card Card Soldier,Enemy Cards,useful
+2681237,Enemy Card Hades,Enemy Cards,useful
+2681238,Enemy Card Jafar,Enemy Cards,useful
+2681239,Enemy Card Oogie Boogie,Enemy Cards,useful
+2681240,Enemy Card Ursula,Enemy Cards,useful
+2681241,Enemy Card Hook,Enemy Cards,useful
+2681242,Enemy Card Dragon Maleficent,Enemy Cards,useful
+2681243,Enemy Card Riku,Enemy Cards,useful
+2681244,Enemy Card Axel,Enemy Cards,useful
+2681245,Enemy Card Larxene,Enemy Cards,useful
+2681246,Enemy Card Vexen,Enemy Cards,useful
+2681247,Enemy Card Marluxia,Enemy Cards,useful
+2681248,Enemy Card Lexaeus,Enemy Cards,useful
+2681249,Enemy Card Ansem,Enemy Cards,useful
+2681250,Enemy Card Zexion,Enemy Cards,useful
+2681251,Enemy Card Xemnas,Enemy Cards,useful
+2681252,Enemy Card Xigbar,Enemy Cards,useful
+2681253,Enemy Card Xaldin,Enemy Cards,useful
+2681254,Enemy Card Saix,Enemy Cards,useful
+2681255,Enemy Card Demyx,Enemy Cards,useful
+2681256,Enemy Card Luxord,Enemy Cards,useful
+2681257,Enemy Card Roxas,Enemy Cards,useful
+2682001,Sleight Sliding Dash,Sleights,useful
+2682002,Sleight Blitz,Sleights,useful
+2682003,Sleight Stun Impact,Sleights,useful
+2682004,Sleight Zantetsuken,Sleights,useful
+2682005,Sleight Strike Raid,Sleights,useful
+2682006,Sleight Sonic Blade,Sleights,useful
+2682007,Sleight Ars Arcanum,Sleights,useful
+2682008,Sleight Ragnarok,Sleights,useful
+2682009,Sleight Trinity Limit,Sleights,useful
+2682010,Sleight Fira,Sleights,useful
+2682011,Sleight Blizzara,Sleights,useful
+2682012,Sleight Thundara,Sleights,useful
+2682013,Sleight Cura,Sleights,useful
+2682014,Sleight Gravira,Sleights,useful
+2682015,Sleight Stopra,Sleights,useful
+2682016,Sleight Aerora,Sleights,useful
+2682017,Sleight Firaga,Sleights,useful
+2682018,Sleight Blizzaga,Sleights,useful
+2682019,Sleight Thundaga,Sleights,useful
+2682020,Sleight Curaga,Sleights,useful
+2682021,Sleight Graviga,Sleights,useful
+2682022,Sleight Stopga,Sleights,useful
+2682023,Sleight Aeroga,Sleights,useful
+2682024,Sleight Fire Raid,Sleights,useful
+2682025,Sleight Blizzard Raid,Sleights,useful
+2682026,Sleight Thunder Raid,Sleights,useful
+2682027,Sleight Reflect Raid,Sleights,useful
+2682028,Sleight Judgement,Sleights,useful
+2682029,Sleight Firaga Burst,Sleights,useful
+2682030,Sleight Raging Storm,Sleights,useful
+2682031,Sleight Mega Flare,Sleights,useful
+2682032,Sleight Freeze,Sleights,useful
+2682033,Sleight Homing Blizzara,Sleights,useful
+2682034,Sleight Aqua Splash,Sleights,useful
+2682035,Sleight Magnet Spiral,Sleights,useful
+2682036,Sleight Lethal Frame,Sleights,useful
+2682037,Sleight Shock Impact,Sleights,useful
+2682038,Sleight Tornado,Sleights,useful
+2682039,Sleight Quake,Sleights,useful
+2682040,Sleight Warpinator,Sleights,useful
+2682041,Sleight Warp,Sleights,useful
+2682042,Sleight Bind,Sleights,useful
+2682043,Sleight Confuse,Sleights,useful
+2682044,Sleight Terror,Sleights,useful
+2682045,Sleight Synchro,Sleights,useful
+2682046,Sleight Gifted Miracle,Sleights,useful
+2682047,Sleight Teleport,Sleights,useful
+2682048,Sleight Holy,Sleights,useful
+2682049,Sleight Proud Roar LV2,Sleights,useful
+2682050,Sleight Proud Roar LV3,Sleights,useful
+2682051,Sleight Splash LV2,Sleights,useful
+2682052,Sleight Splash LV3,Sleights,useful
+2682053,Sleight Paradise LV2,Sleights,useful
+2682054,Sleight Paradise LV3,Sleights,useful
+2682055,Sleight Idyll Romp,Sleights,useful
+2682056,Sleight Flare Breath LV2,Sleights,useful
+2682057,Sleight Flare Breath LV3,Sleights,useful
+2682058,Sleight Showtime LV2,Sleights,useful
+2682059,Sleight Showtime LV3,Sleights,useful
+2682060,Sleight Twinkle LV2,Sleights,useful
+2682061,Sleight Twinkle LV3,Sleights,useful
+2682062,Sleight Cross-slash,Sleights,useful
+2682063,Sleight Omnislash,Sleights,useful
+2682064,Sleight Cross-slash+,Sleights,useful
+2682065,Sleight Magic LV2,Sleights,useful
+2682066,Sleight Magic LV3,Sleights,useful
+2682067,Sleight Stardust Blitz,Sleights,useful
+2682068,Sleight Goofy Tornado LV2,Sleights,useful
+2682069,Sleight Goofy Tornado LV3,Sleights,useful
+2682070,Sleight Goofy Smash,Sleights,useful
+2682071,Sleight Wild Crush,Sleights,useful
+2682072,Sleight Sandstorm LV2,Sleights,useful
+2682073,Sleight Sandstorm LV3,Sleights,useful
+2682074,Sleight Surprise! LV2,Sleights,useful
+2682075,Sleight Surprise! LV3,Sleights,useful
+2682076,Sleight Spiral Wave LV2,Sleights,useful
+2682077,Sleight Spiral Wave LV3,Sleights,useful
+2682078,Sleight Hummingbird LV2,Sleights,useful
+2682079,Sleight Hummingbird LV3,Sleights,useful
+2682080,Sleight Furious Volley LV2,Sleights,useful
+2682081,Sleight Furious Volley LV3,Sleights,useful
+2682082,Sleight Lucky Bounty LV2,Sleights,useful
+2682083,Sleight Lucky Bounty LV3,Sleights,useful
+2683002,World Card Agrabah,World Unlocks,progression
+2683003,World Card Olympus Coliseum,World Unlocks,progression
+2683004,World Card Wonderland,World Unlocks,progression
+2683005,World Card Monstro,World Unlocks,progression
+2683006,World Card Halloween Town,World Unlocks,progression
+2683007,World Card Atlantica,World Unlocks,progression
+2683008,World Card Neverland,World Unlocks,progression
+2683009,World Card Hollow Bastion,World Unlocks,progression
+2683010,World Card 100 Acre Wood,World Unlocks,progression
+2683011,World Card Twilight Town,World Unlocks,progression
+2683012,World Card Destiny Islands,World Unlocks,progression
+2683301,Key to Rewards Traverse Town,Gold Map Cards,progression
+2683302,Key to Rewards Agrabah,Gold Map Cards,progression
+2683303,Key to Rewards Olympus Coliseum,Gold Map Cards,progression
+2683304,Key to Rewards Wonderland,Gold Map Cards,progression
+2683305,Key to Rewards Monstro,Gold Map Cards,progression
+2683306,Key to Rewards Halloween Town,Gold Map Cards,progression
+2683307,Key to Rewards Atlantica,Gold Map Cards,progression
+2683308,Key to Rewards Neverland,Gold Map Cards,progression
+2683309,Key to Rewards Hollow Bastion,Gold Map Cards,progression
+2683311,Key to Rewards Twilight Town,Gold Map Cards,progression
+2683312,Key to Rewards Destiny Islands,Gold Map Cards,progression
+2683313,Key to Rewards Castle Oblivion,Gold Map Cards,progression
+2685001,Friend Card Donald,Friend Cards,progression
+2685002,Friend Card Goofy,Friend Cards,progression
+2685003,Friend Card Aladdin,Friend Cards,progression
+2685004,Friend Card Ariel,Friend Cards,progression
+2685005,Friend Card Beast,Friend Cards,progression
+2685006,Friend Card Peter Pan,Friend Cards,progression
+2685007,Friend Card Jack,Friend Cards,progression
+2685008,Friend Card Pluto,Friend Cards,progression
